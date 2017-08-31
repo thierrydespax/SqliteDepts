@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="errDeptNotFound">Département non trouvé</string>
+
+    <string name="errBadNOept">Département à blanc</string>
+    <string name="errDateCreation1">Date Incorrecte</string>
+
+
+</resources>
